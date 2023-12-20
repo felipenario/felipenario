@@ -5,7 +5,3 @@
 <a href="https://www.instagram.com/felipenario/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/felipenario/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </h3>
-
-<a href="https://github.com/felipenario/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenario&layout=compact&theme=radical" />
-</a>
